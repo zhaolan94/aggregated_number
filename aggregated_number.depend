@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1388942355 source:e:\source\aggregated_number\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
