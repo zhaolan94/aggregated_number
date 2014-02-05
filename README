@@ -1,0 +1,12 @@
+/** Copyright:
+*
+* Author:Hzhaolan
+* Date:2014-1-5
+* Description:check whether a number is aggregated number or not
+* PS:aggregated number is like this :112233 because 11+22 = 33
+* or 1112113 because 111+2 = 113
+*/
+This project was coded & compiled by cb(codeblocks).
+And it is not totally completed.
+Deatils in http://algo.codetodeath.com/category/number/
+Have Fun. = =
